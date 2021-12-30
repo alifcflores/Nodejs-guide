@@ -1,0 +1,3 @@
+[submodule "cypress-homol"]
+	path = cypress-homol
+	url = https://gitlab.com/CredPago/cypress-homol
